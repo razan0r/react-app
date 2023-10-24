@@ -1,0 +1,10 @@
+ul{
+    list-style-type: none !important;
+}
+.text-main-color{
+    color: blue;
+}
+.fixed {
+    position: absolute;
+    bottom: 0;
+}
